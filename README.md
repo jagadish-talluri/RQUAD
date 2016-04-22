@@ -3,10 +3,10 @@ RQUAD is a learning framework which enables many functionalities in education do
 
 RQUAD Learning Framework:
 ------------------------
-Relearn
-Recollect
-Reuse
-Represent
+	Relearn
+	Recollect
+	Reuse
+	Represent
 
 What objectives it need to meet?
 
