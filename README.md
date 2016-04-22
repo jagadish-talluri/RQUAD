@@ -8,7 +8,7 @@ RQUAD Learning Framework:
 	Reuse
 	Represent
 
-What objectives it need to meet?
+What objectives RQUAD need to meet?
 
 Ans:
 
@@ -22,7 +22,7 @@ Ans:
 	
 	Need the learned data to be available in a wide variety of formats to suffice wide vartiety of use cases.
 	
-What are the roles it need to meet?
+What are the roles RQUAD need to meet?
 
 Ans:
 
@@ -31,7 +31,7 @@ Ans:
 	Architect, a designer who can play with the settings to an extent to bring the functionality.
 	Historian, a veteran who can tell the tale in vibrant colors without any blur.
 	
-How Jagadish is going to be benefited with this RQUAD framework?
+How Jagadish is going to be benefited with RQUAD framework?
 
 Ans:
 
@@ -46,7 +46,7 @@ Ans:
 	JobSeeker, to get what ever the job imagined.
 	Interviewer, to grill the participants to the core to extract cream talent.
 	
-What materials are going to be produced by this RQUAD?
+What materials are going to be produced by RQUAD?
 
 Ans:
 
@@ -59,7 +59,7 @@ Ans:
 	7. Installation Docs, ReadMe Files, ShortCuts Info, for installation and troubleshooting
 	8. Organized Subject Matter, to write a textbook
 	
-What sources are going to be examined before producing a material?
+What sources are going to be examined before producing a material in RQUAD?
 
 Ans:
 
