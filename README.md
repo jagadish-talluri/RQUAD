@@ -23,6 +23,7 @@ Ans:
 	
 What are the roles it need to meet?
 Ans:
+
 	User, a developer who can learn and simply put to use.
 	Admin, a deployer who can install and configure it.
 	Architect, a designer who can play with the settings to an extent to bring the functionality.
@@ -30,6 +31,7 @@ Ans:
 	
 How Jagadish is going to be benefited with this RQUAD framework?
 Ans:
+
 	Student, to learn and understand, to recollect at a future point in time.
 	Teacher, to teach and preach, to raise and build new talent.
 	R&D, to understand the details and able to use them in multiple fields.
@@ -43,6 +45,7 @@ Ans:
 	
 What materials are going to be produced by this RQUAD?
 Ans:
+
 	1. Presentation Slides
 	2. Example Codes, simple, to learn-recollect
 	3. Reusable Excersize Codes, complex, to use-implement
