@@ -59,4 +59,15 @@ Ans:
 	7. Installation Docs, ReadMe Files, ShortCuts Info, for installation and troubleshooting
 	8. Organized Subject Matter, to write a textbook
 	
-	
+What sources are going to be examined before producing a material?
+
+Ans:
+
+	1. MOOCs, massively open online courses
+	2. Text Books, Libraries, Subsricptions
+	3. Websites, Blogs, Tutorials, Wiki, online resources
+	4. Paid Video Trainings
+	5. Paid Class Room Trainings
+	6. Hackathons, MeetUps, Peers, Friends, Social Media, Youtube
+	7. Research Papers, White Papers, Journals
+	8. Industry Inputs, internal or classified methodologies	
