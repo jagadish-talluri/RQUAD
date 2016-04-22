@@ -10,6 +10,7 @@ Represent
 
 What objectives it need to meet?
 Ans:
+
 	1. Able to recollect the subject within minutes, just like a snap from a flash card
 	2. Able to memorize the subject easily, just like a question bank
 	3. Able to present the subject to someone effectively, just like a set of powerful slides
