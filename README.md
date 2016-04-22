@@ -1,5 +1,5 @@
 # RQUAD
-RQUAD is a learning framework which enables many functionalities in its domain.
+RQUAD is a learning framework which enables many functionalities in education domain.
 
 RQUAD Learning Framework:
 ------------------------
@@ -9,6 +9,7 @@ Reuse
 Represent
 
 What objectives it need to meet?
+
 Ans:
 
 	1. Able to recollect the subject within minutes, just like a snap from a flash card
