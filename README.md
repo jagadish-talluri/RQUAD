@@ -23,6 +23,7 @@ Ans:
 	Need the learned data to be available in a wide variety of formats to suffice wide vartiety of use cases.
 	
 What are the roles it need to meet?
+
 Ans:
 
 	User, a developer who can learn and simply put to use.
@@ -31,6 +32,7 @@ Ans:
 	Historian, a veteran who can tell the tale in vibrant colors without any blur.
 	
 How Jagadish is going to be benefited with this RQUAD framework?
+
 Ans:
 
 	Student, to learn and understand, to recollect at a future point in time.
@@ -45,6 +47,7 @@ Ans:
 	Interviewer, to grill the participants to the core to extract cream talent.
 	
 What materials are going to be produced by this RQUAD?
+
 Ans:
 
 	1. Presentation Slides
